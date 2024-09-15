@@ -1,5 +1,6 @@
 # Literature-Review
 Literature Review for Programming Languages
+Teresa Wong
 
 ## README: Exploring Compiled and Interpreted Programming Languages with ChatGPT
 
