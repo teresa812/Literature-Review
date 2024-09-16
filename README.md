@@ -22,7 +22,7 @@ I started by asking ChatGPT, **“What are the key differences between compiled 
 - Errors are caught at runtime, allowing for more flexible, but potentially error-prone, development.
 - Examples: Python, JavaScript.
 
-Afterward, I asked ChatGPT to provide **additional differences** between compiled and interpreted languages, which resulted in eight more distinctions, some including memory management, portability, debugging considerations, and even included information on a hybrid approach.
+Afterward, I asked ChatGPT to provide additional differences between compiled and interpreted languages, which resulted in eight more distinctions, some including memory management, portability, debugging considerations, and even included information on a hybrid approach.
 
 ### Deep Dive: Hybrid Approaches
 Intrigued by the mention of hybrid approaches, I asked ChatGPT to explain how hybrid approaches work and why they matter. It explained that hybrid models combine aspects of both compiled and interpreted languages. For example, Java first compiles source code into bytecode, which can be interpreted or further compiled during runtime. Similarly, Just-In-Time (JIT) compilation is used to speed up interpreted languages like JavaScript.
