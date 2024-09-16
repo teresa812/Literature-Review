@@ -8,7 +8,7 @@ Teresa Wong
 This README documents my exploration of the differences between compiled and interpreted programming languages using ChatGPT (GPT-4). I leveraged the model to gather insights on these topics, refine the results, and create a structured, engaging narrative. Throughout the process, I sought to balance clarity with technical depth, using concise explanations and helpful references. The goal was to create a document that is not only informative but also easy to follow for anyone new to programming languages.
 
 ### Initial Question: Compiled vs. Interpreted Languages
-I started by asking ChatGPT, **“What are the key differences between compiled and interpreted programming languages?”**. Below is a short summary of the information gathered from the model:
+I started by asking ChatGPT, **“What are the key differences between compiled and interpreted programming languages?”**. Below is a short summary of some of the information gathered from the model:
 
 **Compiled Languages**:
 - Translates source code into machine code via a compiler before execution.
